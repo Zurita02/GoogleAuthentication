@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296942713357",
+    "project_id": "logintoolbar-5732c",
+    "storage_bucket": "logintoolbar-5732c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296942713357:android:36764d487fe38097a1f344",
+        "android_client_info": {
+          "package_name": "com.dgz.logintoolbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296942713357-866o9uv9anlpj85h7bkrls9qu59saqaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dgz.logintoolbar",
+            "certificate_hash": "9aef7d7eb0a45bbc91e20d75b5d35b9959047a0a"
+          }
+        },
+        {
+          "client_id": "296942713357-h7io2vc5il81r4ge4vn6of9bmcidt8em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIClq4a3LLW2_5fhy-Wp8HhFFPSFqhJpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296942713357-h7io2vc5il81r4ge4vn6of9bmcidt8em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
